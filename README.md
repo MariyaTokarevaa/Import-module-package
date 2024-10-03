@@ -1,11 +1,11 @@
 # Домашнее задание к лекции 1. «Import. Module. Package»
 1. Разработать структуру программы «Бухгалтерия»:
 
-main.py;
+  - main.py;
 
-application/salary.py;
+  - application/salary.py;
 
-application/db/people.py.
+  - application/db/people.py.
 
 Main.py — основной модуль для запуска программы.
 
